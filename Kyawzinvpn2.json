@@ -16,11 +16,8 @@
 {
        "name": "TH-TRUE-GAME-VIP-05",
          "url": "https://raw.githubusercontent.com/kyawzin1993/KYAWVPN/main/Vip-sever5.ovpn"
-      },
-{
-       "name": "TH-TRUE-GAME-VIP-06",
-         "url": "https://raw.githubusercontent.com/kyawzin1993/KYAWVPN/main/Vip-sever6.ovpn"
       }
+
  ]
 "message":"🔰 Update function to page load
 
@@ -31,6 +28,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 5 ",
-   "version": 5
+"title":"Config version - 6 ",
+   "version": 6
 }
