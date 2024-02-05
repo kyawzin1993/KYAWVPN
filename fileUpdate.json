@@ -1,22 +1,26 @@
 {
 
-"version": 2,
+"version": 3,
 "message": "What's new \nUpdated new server Vip",
 
 "files": [
+         {
+        //server-free1
+         "config": "Kp0DenxFV4KZ3LJhgICRhuFJoh2msSmv4Nb5xSee47FwtDKVGWQu/dBP6e7QjF3gQasymaCSL3YpHViGWVSoWF39Px0vtIxpHs2HCo3FZ5WJt/SUK1xgRDZ1Go0v8uPHTeMMXhgME0a5hkv5LyPRNXzI5fT1FSIPOA8SlHzrKXuu6+Z5h9ixX+ksh1vX97FLKE5snLJ4lz1OKm8Z41cPs6ygvwueJcJN4ei2ie8LmJiH6Q3rTSurcZjTPo8kocLrU7mjDK48QuwZl6BeJt7ASWJTIf44Mg2o7i2jAXfzgChrezDU0IAmHgWDx1M4wIzs5cxWt9tVnDalEWXIeqbcmRc2D2BAW4o/t/sPqw9eYwlRFhaZCtBARc5kB6G44AFOKhcXHESfc4zX8Ja6EOtZ1cFle6+c68EVuQDekl3h7bFH3nGzzTCPdqrrsxFRDs3Uru/jZ1rxFVw="
+      },
 
 {
-         //server-free1
+         //server-free2
          "config": "+eVS4V52Fwn61gpPsgm3brRUCLiSPg4x/tn02GbmmkGPBYJyWJtsHsOIHcByOE6pUUQk/mtLmwmw06/dqc3fK10eQyvzoH8vfZ5rYnAiFPEWdvu4/QpjRCsoGQo3w3WEDYp+gnd85tpSEIjZw+dZ77vA2G2CpcwoyQ6Wzcc//s9Q8lP8IkcGDgdHW6mQAe9WDquHlEp1ymm9KnyOTDvizKo5wgmjyho/nHbdyEVAIqeozdQ2ZcQxSb7BiAzyFVzVxUTFOF05+l9udBp9A21J0JFGjiA531CHq2OMHcU94Apf0G59Fzr1gGfAJB2JRddL4qaWmTJ3B0I/ymef6KT3frNlCj280YW2+BW3TtFgF1G0YGd9YSzFU20FdQ9bAjlCRf37JifuXftxwY+gCwkrrfpiRs1cCPS8gUjL3mrZk1AZHWJnuJnml3wzqNE0aFMiouXcFw=="
      
 },
 {
-        //server-free2
+        //server-free3
          "config": "93vB74SAcMEPKthd6HfYzHqHVmQLtSnf4TvT5SWuqtAK6SPgq+WLomQ8M+QQUcoFkR4RI1gVjj7R2CQ/Kngt7Ju1rninJD3loVYw2tYi69Gu32fLnvHWC2tIkHLcxcyEr4hzvCTzuJsyVg+5s2jbWlaxRAyP85p0cKBLp65HH9HxQlCmfaNCJLN/V5PazU1U3Bt+ARxKE6lC0PlZCjp6VPG4onP9SFO7+FUaJYqdzZwZ0iYJjbew5abLIEWkJHo0vIUiPdtm4S6LtyDkLxNuQXygw+5ozlaHV4GVHmLHAbMS6yYjYDs4Ge+deS/4jh9/YRMxV9TfWWXFwStomANqyKbCwspbTJSM8f5vmOFMmlemPQu+3/0kVUmvMSNX7qMpkF+JVk6Kelf58ANMPR7kuZeUyPjI4kWGeGl5FQGJcbU95QKPfBerZk9xyPf7zMLU77nh1A=="
       },
 
 {
-        //server-free3
+        //server-free4
          "config": "Kp0DenxFV4KZ3LJhgICRhuFJoh2msSmv4Nb5xSee47FwtDKVGWQu/dBP6e7QjF3gQasymaCSL3YpHViGWVSoWF39Px0vtIxpHs2HCo3FZ5WJt/SUK1xgRDZ1Go0v8uPHTeMMXhgME0a5hkv5LyPRNXzI5fT1FSIPOA8SlHzrKXuu6+Z5h9ixX+ksh1vX97FLKE5snLJ4lz1OKm8Z41cPs6ygvwueJcJN4ei2ie8LmJiH6Q3rTSurcZjTPo8kocLrU7mjDK48QuwZl6BeJt7ASWJTIf44Mg2o7i2jAXfzgChrezDU0IAmHgWDx1M4wIzs5cxWt9tVnDalEWXIeqbcmRc2D2BAW4o/t/sPqw9eYwlRFhaZCtBARc5kB6G44AFOKhcXHESfc4zX8Ja6EOtZ1cFle6+c68EVuQDekl3h7bFH3nGzzTCPdqrrsxFRDs3Uru/jZ1rxFVw="
       }
 
